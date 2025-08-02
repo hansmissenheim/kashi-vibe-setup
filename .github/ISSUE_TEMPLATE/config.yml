@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://hansmissenheim.github.io/kashi/
+    about: Check our documentation for usage guides and API reference
+  - name: 💬 Discussions
+    url: https://github.com/hansmissenheim/kashi/discussions
+    about: Ask questions and discuss ideas with the community
