@@ -69,7 +69,7 @@ uv run mypy .
 
 ## Documentation
 
-Full documentation is available at [kashi.readthedocs.io](https://kashi.readthedocs.io).
+Full documentation is available at [https://hansmissenheim.github.io/kashi](https://hansmissenheim.github.io/kashi).
 
 To build documentation locally:
 

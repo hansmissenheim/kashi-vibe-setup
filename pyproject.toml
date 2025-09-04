@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Turn song files into Anki cards for non-native language lyric learning"
 readme = "README.md"
 authors = [
-    {name = "Hans Missenheim", email = "hans@example.com"}
+    {name = "Hans Missenheim", email = "hans@missenheim.com"}
 ]
 license = {text = "MIT"}
 keywords = ["anki", "language-learning", "music", "lyrics"]
